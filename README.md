@@ -38,3 +38,5 @@ Bienvenidos a mi perfil de Github. Soy un aprendiz de todo lo que la vida me dis
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonjandrysdev&layout=compact&langs_true&theme=dark)](https://github.com/jhonjandrysdev/github-readme-stats)
 
 ## 📋 Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
