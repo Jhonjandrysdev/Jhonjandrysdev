@@ -32,7 +32,9 @@ Bienvenidos a mi perfil de Github. Soy un aprendiz de todo lo que la vida me dis
 ## 📑 Library
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="50px" height="50px">
 
-## Activity
+## 📈 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonjandrysdev&hide=contribs,contribs&show_icons=true&theme=dark)](https://github.com/jhonjandrysdev/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonjandrysdev&layout=compact&langs_true&theme=dark)](https://github.com/jhonjandrysdev/github-readme-stats)
+
+## 📋 Activity
